@@ -13,4 +13,6 @@ You can install it with the following command in your terminal
    
    $ sudo apt install git-all
 
+# Setup Instructions
+
 
