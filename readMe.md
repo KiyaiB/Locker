@@ -31,7 +31,7 @@ To access this project on your local files,clone the repo using these steps:
 A list of the following short code option is given, chose what to do...
      
      Short codes:
-     
+
         cr - Create a password Locker account 
 
         dis - Display names of current password locker users 
@@ -39,5 +39,8 @@ A list of the following short code option is given, chose what to do...
         lg - Log into your account on password locker 
 
         ex - Exit the password locker account
+
+# Technologies Used 
+Python
 
 
