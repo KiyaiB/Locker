@@ -147,7 +147,7 @@ def main():
     """
     Function to run the password locker app
     """
-    print("WELCOME TO PASSWORD LOCKER")
+    print("WELCOME TO PASSWORD LOCKER!")
 
     while True:
         """
