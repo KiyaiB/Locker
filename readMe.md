@@ -11,7 +11,7 @@ You need to have git installed in your device.
 
 You can install it with the following command in your terminal
    
-  '$ sudo apt install git-all'
+  `$ sudo apt install git-all`
 
 # Setup Instructions
 To access this project on your local files,clone the repo using these steps:
