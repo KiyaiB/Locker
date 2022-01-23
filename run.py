@@ -213,7 +213,7 @@ def main():
 
             if user_log_in(user_name, user_password) == None:
                 print("\n")
-                print("Invalid user name or password, try again or Create a New Account")
+                print("Invalid username or password, try again or Create a New Account")
                 print("\n")
 
             else:
