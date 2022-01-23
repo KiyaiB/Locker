@@ -43,4 +43,7 @@ A list of the following short code option is given, chose what to do...
 # Technologies Used 
 Python
 
+# Contact Info
+Send an email to `babrakiyai080@gmail.com`
+
 
