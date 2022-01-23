@@ -29,7 +29,9 @@ To access this project on your local files,clone the repo using these steps:
 6.Run the command `python3 run.py` in the terminal to launch the program
 
 A list of the following short code option is given, chose what to do...
+     
      Short codes:
+     
         cr - Create a password Locker account 
 
         dis - Display names of current password locker users 
