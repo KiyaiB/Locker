@@ -14,5 +14,20 @@ You can install it with the following command in your terminal
    $ sudo apt install git-all
 
 # Setup Instructions
+To access this project on your local files,clone the repo using these steps:
+
+1.Open your terminal
+
+2.Use this command to clone $ git clone https://github.com/KiyaiB/Locker.git
+
+3.This will clone the repository into your local folder. Then cd Locker
+
+4.Run the command python3 user_test.py in the terminal to test user account code.
+
+5.Run the command python3 credentials_test.py in the terminal to test account credentials code.
+
+6.Run the command python3 run.py in the terminal to launch the program
+
+List of command options given, chose what to do...
 
 
