@@ -157,7 +157,7 @@ def main():
         cr - Create a password Locker account \n
         dis - Display names of current password Locker users \n
         lg - Log into your account on password Locker \n
-        ex - Exit the password locker account """)
+        ex - Exit the password Locker account """)
 
         # taking short codes from the user
         short_code = input().lower()
@@ -318,7 +318,7 @@ def main():
 
                     elif short_code == "ext":
                         print(
-                            f"Thank you {user_name} for using Password Locker.See You Again !")
+                            f"Thank you {user_name} for using Password Locker.See You Again!")
                         print("\n")
                         break
 
