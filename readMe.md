@@ -22,11 +22,11 @@ To access this project on your local files,clone the repo using these steps:
 
 3.This will clone the repository into your local folder. Then cd Locker
 
-4.Run the command python3 user_test.py in the terminal to test user account code.
+4.Run the command `python3 user_test.py` in the terminal to test user account code.
 
-5.Run the command python3 credentials_test.py in the terminal to test account credentials code.
+5.Run the command `python3 credentials_test.py` in the terminal to test account credentials code.
 
-6.Run the command python3 run.py in the terminal to launch the program
+6.Run the command `python3 run.py` in the terminal to launch the program
 
 A list of the following short code option is given, chose what to do...
      Short codes:
