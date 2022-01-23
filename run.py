@@ -155,7 +155,7 @@ def main():
         """
         print("""Short codes:
         cr - Create a password Locker account \n
-        dis - Display names of current password locker users \n
+        dis - Display names of current password Locker users \n
         lg - Log into your account on password locker \n
         ex - Exit the password locker account """)
 
